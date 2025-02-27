@@ -1,0 +1,36 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+header {
+    background-color: chocolate;
+}
+
+nav {
+    background-color: bisque;
+}
+
+main {
+    background-color: antiquewhite;
+    font-size: large;
+}
+
+footer {
+    background-color: blanchedalmond;
+}
+
+li {
+    display: block;
+    width: 120%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+p {
+    line-height: normal;
+}
